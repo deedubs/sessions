@@ -1,7 +1,7 @@
 {
   "name": "sessions",
   "private": true,
-  "main": "server.js",
+  "main": "./lib/index.js",
   "scripts": {
     "start": "node server.js"
   },
