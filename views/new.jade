@@ -1,0 +1,10 @@
+extends ../../../layouts/default
+
+block body
+  h1 Sign in
+  form(method="post", action="/sessions/new")
+    label Email
+    input(name="email", type="email");
+    lalel Password
+    input(name="password", type="password")
+    input(type="submit")

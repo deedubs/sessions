@@ -1,0 +1,21 @@
+{
+  "name": "sessions",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "readmeFilename": "README.md",
+  "description": "Session module",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deedubs/sessions.git"
+  },
+  "keywords": [
+    "express",
+    "sessions"
+  ],
+  "author": "Dan Williams <me@deedubs.com>",
+  "license": "BSD"
+}
